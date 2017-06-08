@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:10:5-28:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\july_\.android\build-cache\572bbd248e6758f4f614f6916de2b5dbe5df1bc6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\july_\.android\build-cache\be9b534759c95e5a1340ea3cd98edec0eea13984\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\july_\.android\build-cache\f13952cd539352e999d01cff992a3547c119ed8f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\july_\.android\build-cache\9cea73d6004262767ef78322c0090ad4725e311b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\july_\.android\build-cache\685b2e61498d0202913165708ae2f52e85b73350\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\july_\.android\build-cache\b70ce8380b04ab123bab6c6691d5fabf89909f64\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\july_\.android\build-cache\fd98a04a7967673f479d5c774e68c314d3e819a8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\july_\.android\build-cache\12f0c7d06f7906347ed08ed03c8f94ef3a50dc84\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\july_\.android\build-cache\f4220816eaae70c15ed420c919d692b119a47fb7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\july_\.android\build-cache\257bea0172d5e4c658ffb9c9ea6fe2ee9ea0b162\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\july_\.android\build-cache\e8a2e4e31261d52113040e19029a258952036031\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\july_\.android\build-cache\45beffd2d3a20069368dcf306be6b62e02aefb9a\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.july_.myapplication.LoginActivity
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.july_.myapplication.SignupActivity
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.july_.myapplication.MainActivity
+ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:27:9-59
+	android:name
+		ADDED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:27:19-47
+uses-sdk
+INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\july_\.android\build-cache\572bbd248e6758f4f614f6916de2b5dbe5df1bc6\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\july_\.android\build-cache\be9b534759c95e5a1340ea3cd98edec0eea13984\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\july_\.android\build-cache\f13952cd539352e999d01cff992a3547c119ed8f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\july_\.android\build-cache\9cea73d6004262767ef78322c0090ad4725e311b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\july_\.android\build-cache\1b023f6b88a4374bad7cef2a98c5c0e04c9d518c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\july_\.android\build-cache\685b2e61498d0202913165708ae2f52e85b73350\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\july_\.android\build-cache\b70ce8380b04ab123bab6c6691d5fabf89909f64\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\july_\.android\build-cache\fd98a04a7967673f479d5c774e68c314d3e819a8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\july_\.android\build-cache\12f0c7d06f7906347ed08ed03c8f94ef3a50dc84\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\july_\.android\build-cache\f4220816eaae70c15ed420c919d692b119a47fb7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\july_\.android\build-cache\257bea0172d5e4c658ffb9c9ea6fe2ee9ea0b162\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\july_\.android\build-cache\3c6a1f1892c3b25ce5388ed45dc9383315906bf3\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\july_\.android\build-cache\e8a2e4e31261d52113040e19029a258952036031\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\july_\.android\build-cache\45beffd2d3a20069368dcf306be6b62e02aefb9a\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\july_\.android\build-cache\572bbd248e6758f4f614f6916de2b5dbe5df1bc6\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\july_\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\july_\.android\build-cache\572bbd248e6758f4f614f6916de2b5dbe5df1bc6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\july_\.android\build-cache\be9b534759c95e5a1340ea3cd98edec0eea13984\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\july_\.android\build-cache\f13952cd539352e999d01cff992a3547c119ed8f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\july_\.android\build-cache\9cea73d6004262767ef78322c0090ad4725e311b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\july_\.android\build-cache\1b023f6b88a4374bad7cef2a98c5c0e04c9d518c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\july_\.android\build-cache\685b2e61498d0202913165708ae2f52e85b73350\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\july_\.android\build-cache\b70ce8380b04ab123bab6c6691d5fabf89909f64\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\july_\.android\build-cache\fd98a04a7967673f479d5c774e68c314d3e819a8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\july_\.android\build-cache\12f0c7d06f7906347ed08ed03c8f94ef3a50dc84\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\july_\.android\build-cache\f4220816eaae70c15ed420c919d692b119a47fb7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\july_\.android\build-cache\257bea0172d5e4c658ffb9c9ea6fe2ee9ea0b162\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\july_\.android\build-cache\e8a2e4e31261d52113040e19029a258952036031\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\july_\.android\build-cache\572bbd248e6758f4f614f6916de2b5dbe5df1bc6\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\july_\.android\build-cache\572bbd248e6758f4f614f6916de2b5dbe5df1bc6\output\AndroidManifest.xml:26:9-47

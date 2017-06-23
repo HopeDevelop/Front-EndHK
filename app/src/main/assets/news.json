@@ -1,0 +1,22 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "name": "National Geographic Channel",
+      "image": "http://api.androidhive.info/feed/img/cosmos.jpg",
+      "status": "\"Science is a beautiful and emotional human endeavor,\" says Brannon Braga, executive producer and director. \"And Cosmos is all about making science an experience.\"",
+      "profilePic": "http://api.androidhive.info/feed/img/nat.jpg",
+      "timeStamp": "1403375851930"
+
+    },
+    {
+      "id": 2,
+      "name": "TIME",
+      "image": "http://api.androidhive.info/feed/img/time_best.jpg",
+      "status": "30 years of Cirque du Soleil's best photos",
+      "profilePic": "http://api.androidhive.info/feed/img/time.png",
+      "timeStamp": "1403375851930"
+
+    }
+  ]
+}

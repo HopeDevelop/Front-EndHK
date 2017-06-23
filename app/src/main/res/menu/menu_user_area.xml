@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appcompat="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.juliette.myapplication.UserAreaActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item android:id="@+id/search"
+        android:title="@string/search_view"
+        android:icon="@drawable/ic_search_white_24dp"
+        appcompat:showAsAction="collapseActionView|ifRoom"
+        appcompat:actionViewClass="android.support.v7.widget.SearchView" />
+
+</menu>

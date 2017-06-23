@@ -1,26 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\july_\\.android\\build-cache\\be9b534759c95e5a1340ea3cd98edec0eea13984\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\july_\\.android\\build-cache\\be9b534759c95e5a1340ea3cd98edec0eea13984\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\july_\\.android\\build-cache\\be9b534759c95e5a1340ea3cd98edec0eea13984\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\july_\\.android\\build-cache\\be9b534759c95e5a1340ea3cd98edec0eea13984\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout-v11/notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\july_\\.android\\build-cache\\be9b534759c95e5a1340ea3cd98edec0eea13984\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\july_\\.android\\build-cache\\be9b534759c95e5a1340ea3cd98edec0eea13984\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout-v11/notification_template_big_media_custom.xml"
     }
 ]

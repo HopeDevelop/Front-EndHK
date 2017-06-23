@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\july_\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

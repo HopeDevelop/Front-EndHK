@@ -24,6 +24,10 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mcv_action_next.png",
+        "source": "/home/juliette/.android/build-cache/ee9d94b93a5c0ff66eb3c80520b00217d2f1dc3a/output/res/drawable-xxxhdpi-v4/mcv_action_next.png"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -94,6 +98,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/mcv_action_previous.png",
+        "source": "/home/juliette/.android/build-cache/ee9d94b93a5c0ff66eb3c80520b00217d2f1dc3a/output/res/drawable-xxxhdpi-v4/mcv_action_previous.png"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",

@@ -8,12 +8,12 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_user_institution_area.xml",
-        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_user_institution_area.xml"
-    },
-    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_user_institution_area.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_user_institution_area.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
@@ -30,6 +30,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_institution.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_institution.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -58,6 +62,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/fragment_tab1_description.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_tab1_description.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
@@ -168,6 +176,10 @@
         "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/tab1calendario.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/fragment_tab3_event.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_tab3_event.xml"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/abc_screen_simple.xml"
     },
@@ -220,6 +232,14 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/abc_search_view.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/fragment_two.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_two.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/abc_action_bar_up_container.xml"
     },
@@ -236,6 +256,10 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/select_dialog_item_material.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/likeview.xml",
+        "source": "/home/juliette/.android/build-cache/3346f474aa0b664904959c6862ec75b78f077325/output/res/layout/likeview.xml"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/notification_template_part_chronometer.xml"
     },
@@ -250,6 +274,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/home/juliette/.android/build-cache/ea8e52345b5c057b1b3fd8f9141d19aa112b12fe/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/fragment_one.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_one.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
@@ -286,6 +314,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/fragment_tab2_campaign.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_tab2_campaign.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/search_item_ec.xml",

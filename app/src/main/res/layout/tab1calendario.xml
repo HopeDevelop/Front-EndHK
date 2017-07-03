@@ -8,11 +8,18 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:color="@color/colorPrimaryDark">
 
-    <TextView
-        android:id="@+id/section_label"
-        android:layout_width="wrap_content"
+    <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/calendar"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tab1 calendário"/>
+        app:mcv_showOtherDates="all"
+        app:mcv_selectionColor="@color/colorPrimaryDark"
+        />
+    <ListView
+        android:id="@+id/calenderlist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 
 

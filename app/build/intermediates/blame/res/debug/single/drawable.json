@@ -12,6 +12,10 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
@@ -24,8 +28,16 @@
         "source": "/home/juliette/.android/build-cache/ea8e52345b5c057b1b3fd8f9141d19aa112b12fe/output/res/drawable/design_snackbar_background.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/heart_off.png",
+        "source": "/home/juliette/.android/build-cache/3346f474aa0b664904959c6862ec75b78f077325/output/res/drawable/heart_off.png"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/star_off.png",
+        "source": "/home/juliette/.android/build-cache/3346f474aa0b664904959c6862ec75b78f077325/output/res/drawable/star_off.png"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
@@ -38,6 +50,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
         "source": "/home/juliette/.android/build-cache/b41bbd68ca02adc179cfceedf8fb8b01a1cce129/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/profile_circular_border_imageview.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/profile_circular_border_imageview.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -68,6 +84,10 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_vector_test.xml"
     },
@@ -82,6 +102,14 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
@@ -104,8 +132,28 @@
         "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/list_row_bg.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/heart_on.png",
+        "source": "/home/juliette/.android/build-cache/3346f474aa0b664904959c6862ec75b78f077325/output/res/drawable/heart_on.png"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
@@ -116,6 +164,10 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/thumb_off.png",
+        "source": "/home/juliette/.android/build-cache/3346f474aa0b664904959c6862ec75b78f077325/output/res/drawable/thumb_off.png"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_text_cursor_material.xml"
     },
@@ -124,8 +176,20 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/thumb_on.png",
+        "source": "/home/juliette/.android/build-cache/3346f474aa0b664904959c6862ec75b78f077325/output/res/drawable/thumb_on.png"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
@@ -134,6 +198,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
         "source": "/home/juliette/.android/build-cache/ea8e52345b5c057b1b3fd8f9141d19aa112b12fe/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/star_on.png",
+        "source": "/home/juliette/.android/build-cache/3346f474aa0b664904959c6862ec75b78f077325/output/res/drawable/star_on.png"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/bottom_border_on_dark.xml",
@@ -152,6 +220,14 @@
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/notification_bg_low.xml"
     },
@@ -166,6 +242,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
@@ -194,6 +274,10 @@
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",

@@ -2,6 +2,8 @@ package com.example.juliette.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.AppCompatCheckBox;
+
 
 public class UserTypeActivity extends AppCompatActivity {
 

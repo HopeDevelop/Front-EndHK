@@ -30,12 +30,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/juliette/.android/build-cache/2759b7a72f7bbcb6b4a145bc8c0881d7b48e6912/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_a36c7aeafdab06344c62250bdc1e2c2c7c6de367.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/juliette/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
         <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a231bba3024833ef9b2e00a78f080ae281a381a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juliette/.android/build-cache/a1dca78703e94d5e46c11ba1d028eb7933c0f3dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_a181e2c99608134e0b1a3d5a8d3e74787832ed6e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +75,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/juliette/.android/build-cache/0972989d65e4e96e0c2943701927c7438455a8e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_8d2e6ffbd87c8087b048355e740f87312b5fb7ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/juliette/.android/build-cache/8ba3e5a3e162736a6de7c53129884a8c8821c490/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
         <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_8e382ae943930eb3e68f6f165237169c79f7df8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juliette/.android/build-cache/be841637188dc8b83975e780df18d1f814ca4198/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_ce20e2a8a9eb9cc389f35198365807aa70b0f195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juliette/.android/build-cache/3b610a08b093f4b4d07905f3e3d66c402d42ccb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_0f658df63b7ebc7098aedc85522ae094a1337bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juliette/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.6.0_b881684a293a9b58e47b800782fd45a1aee71732.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,6 +156,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/juliette/.android/build-cache/3346f474aa0b664904959c6862ec75b78f077325/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9048a9e4798a71fe8e62e4a049eeb9ccb24010cb">
+        <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_bf19f90e79e41fe0046b6fa6dcccac0731bc7d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/juliette/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC0/eb86cd1d96acc30dcebf338abaf2c62ca28bf355/glide-4.0.0-RC0.jar"
         jumboMode="false"
         optimize="true"
@@ -126,6 +189,15 @@
         revision="25.0.0"
         sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
         <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_cbc9bc9bd158acdc89e162d1d5ab3349929306da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juliette/.android/build-cache/ee9d94b93a5c0ff66eb3c80520b00217d2f1dc3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5094eccf53998e9bcacfb85f80e7607b39b093fd">
+        <dex dex="/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_417e8ee2a80d14200bcf3f5f0da99a3f09f4981a.jar" />
     </item>
     <item
         is-multidex="false"

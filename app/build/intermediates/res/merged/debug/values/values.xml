@@ -211,6 +211,7 @@
     <color name="timestamp">#a0a3a7</color>
     <color name="winBackground">#98cb4a</color>
     <color name="windowBackground">#FFFFFF</color>
+    <color name="yellow">#d9f719</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>

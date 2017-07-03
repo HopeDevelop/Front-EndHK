@@ -3,8 +3,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".SearchResultsActivity">
-    <ListView
+
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabsearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:minHeight="60dp"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/colorPrimary"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/colorWhite"></android.support.design.widget.TabLayout>
+
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/viewpager3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tabsearch"></android.support.v4.view.ViewPager>
+
+
+    <!-- <ListView
         android:id="@+id/listView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -13,5 +35,5 @@
         android:layout_marginBottom="16dp"
         android:layout_marginTop="16dp"
         android:padding="8dp"
-        android:scrollbars="none" />
+        android:scrollbars="none" />-->
 </RelativeLayout>

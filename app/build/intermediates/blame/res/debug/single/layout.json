@@ -160,6 +160,10 @@
         "source": "/home/juliette/.android/build-cache/ea8e52345b5c057b1b3fd8f9141d19aa112b12fe/output/res/layout/design_layout_snackbar.xml"
     },
     {
+        "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_calendar_event.xml",
+        "source": "/home/juliette/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_calendar_event.xml"
+    },
+    {
         "merged": "/home/juliette/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/home/juliette/.android/build-cache/dcbb77f602611d05383207d424839cc41e7be29e/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
